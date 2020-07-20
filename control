@@ -1,0 +1,9 @@
+Package: com.mrgcgamer.nomorenctimex
+Name: NoMoreNCTimeX
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: No more!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Tweaks
